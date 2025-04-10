@@ -1,8 +1,8 @@
 # Git-beginner-guide
 A beginner-friendly guide to using Git and GitHub for version control and collaboration.
-# A Beginner's Guide to Git and GitHub: Version Control & Collaboration Made Easy
 
-**By Glory Ugochukwu**
+A Beginner's Guide to Git and GitHub: Version Control & Collaboration Made Easy
+
 
 ---
 
